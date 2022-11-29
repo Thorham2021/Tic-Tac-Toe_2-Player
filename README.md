@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe_2-Player
 
 Enjoy this game with two players
 
